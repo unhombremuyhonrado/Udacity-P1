@@ -1,0 +1,16 @@
+for parentheses and for long dash: &mdash; 
+http://ascii.cl/htmlcodes.htm
+
+changing thickness of <hr> tag:
+http://doctype.com/change-size-hr-css
+http://www.sovavsiti.cz/css/hr.html
+
+used normalize.css. i copied and pasted from 
+http://necolas.github.io/normalize.css/3.0.2/normalize.css
+
+for media queries
+http://stackoverflow.com/questions/6370690/media-queries-how-to-target-desktop-tablet-and-mobile
+
+I added 'word-wrap; break-word;' to my body tag in CSS after reading a post in Piazza from 10/17/14.
+
+I included a media query and played around with it using info from mozilla's CSS reference guide. I used "match-parent" which seemed to work.
